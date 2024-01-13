@@ -16,9 +16,8 @@ export const startServer = () => {
 
   const credentials = {
     installed: {
-      client_id:
-        "186467239657-pki7rojt1162q8nte68a2nd5ul3b6uik.apps.googleusercontent.com",
-      client_secret: "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",
+      client_id: "",
+      client_secret: "",
       redirect_uris: ["http://localhost:3000/callback"],
     },
   };
